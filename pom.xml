@@ -54,18 +54,18 @@
 
     </dependencies>
 
-    <!--<repositories>
+    <repositories>
         <repository>
             <id>myMavenRepo.read</id>
-            <url>https://mymavenrepo.com/repo/FN8PIshHk5uALNhkXbhs/</url>
+            <url>https://mymavenrepo.com/repo/8IyjUQCpKonc19uZj7XV/</url>
         </repository>
-    </repositories>-->
+    </repositories>
 
-    <!--<distributionManagement>
+    <distributionManagement>
         <repository>
             <id>myMavenRepo.write</id>
-            <url>https://mymavenrepo.com/repo/9Q8JoRpymi4UGK8HzbVq/</url>
+            <url>https://mymavenrepo.com/repo/Co4iohEN8VJUkXHpNyGO/</url>
         </repository>
-    </distributionManagement>-->
+    </distributionManagement>
 
 </project>
